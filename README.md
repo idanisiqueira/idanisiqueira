@@ -1,8 +1,23 @@
-- 👋 Olá, Eu sou @idanisiqueira / Dayanny!
-- 👀 Estou interessada em Programação no geral.
-- 🌱 Sigo constantemente aprendendo sobre esta área, com o objetivo de ser uma programadora full stack!
-- 💞️ Procuro colaborar e auxiliar as pessoas que cruzam o caminho da minha vida.
-- 📫 Podem entrar em contato comigo através do email dcess360@gmail.com
+Olá, tudo bem?
+
+Eu sou Dayanny e atualmente sou Programadora Front End. :computer:
+<br>Tenho estudado e me dedicado muito em algumas linguagens de programação a fim de exercer um excelente trabalho.
+<br>Estou aprendendo e criando projetos com:
+<br><br>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript-logo"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo">
+  <br>
+### Se conecte comigo:
+<a href="https://www.linkedin.com/in/dayanny-siqueira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=idanisiqueira&show_icons=true&theme=monokai)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idanisiqueira)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  
 
 <!---
 idanisiqueira/idanisiqueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

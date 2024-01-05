@@ -2,7 +2,7 @@
 
 <p align="justify">Sou Desenvolvedora Front End e <b>apaixonada</b> pela tecnologia no geral, com o forte desejo de <b><i>transformar</i></b> ideias em <b>soluções digitais</b>. Sendo <i>atenta</i> aos detalhes, com a capacidade de <b>visualizar</b> a forma como o código será <i>transformado</i> na aplicação completa e necessária.
 <br>
-Atualmente continuo <b>aumentando</b> meu conhecimento aprendendo <i>novas</i> linguagens de programação e <b>aprofundando</b> sobre a parte <b>avançada</b> das linguagens já dominadas. Meu <b>objetivo</b> profissional é abranger ao <b><i>máximo</i></b> meu conhecimento na programação para entregar <i>além</i> do solicitado e contribuir em projetos <b>inovadores</b>.</p>
+Atualmente continuo <b>aumentando</b> meu conhecimento aprendendo <i>novas</i> linguagens de programação e <b>aprofundando</b> sobre a parte <b>avançada</b> das linguagens já dominadas. Meu <b>objetivo</b> profissional é abranger ao <b><i>máximo</i></b> meu conhecimento na <b>programação</b> para entregar <i>além</i> do solicitado e <b>contribuir</b> em projetos <b>inovadores</b>.</p>
 <hr>
 <h2>Tecnologias aprendidas e em aprimoramento:</h2>
 

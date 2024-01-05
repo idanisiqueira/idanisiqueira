@@ -1,4 +1,4 @@
-<h1>Seja bem vindo(a)! Eu sou a Dayanny. :smiley_cat:</h1>
+<h1>Seja bem-vindo(a)! Eu sou a Dayanny. :smiley_cat:</h1>
 
 <p align="justify">Sou Desenvolvedora Front End e <b>apaixonada</b> pela tecnologia no geral, com o forte desejo de <b><i>transformar</i></b> ideias em <b>soluções digitais</b>. Sendo <i>atenta</i> aos detalhes, com a capacidade de <b>visualizar</b> a forma como o código será <i>transformado</i> na aplicação completa e necessária.
 <br>
